@@ -1,2 +1,2 @@
  Excel-Dashboard-project
-(niki0.png)
+(excel dashboard.jpg)
